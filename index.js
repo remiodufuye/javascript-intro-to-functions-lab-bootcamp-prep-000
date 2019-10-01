@@ -18,6 +18,6 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
   
-  var lowercase = string ;
+  var myString = string ;
   
 }
