@@ -27,7 +27,7 @@ function sayHiToGrandma(string) {
   }
   
    else if (string.toLowerCase() === 'I love you, Grandma' ) {
-    return `YES INDEED!`  ;
+    return ``  ;
   }
 }
 
